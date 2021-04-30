@@ -1,4 +1,4 @@
-<div style="text-align:center"> ### Hi there 👋 </div>
+<p p align=center> ### Hi there 👋 </p>
 
 <!--
 **vineeth-raj/vineeth-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
